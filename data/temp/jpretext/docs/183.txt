@@ -1,0 +1,1 @@
+Alelos e genes Um gene como um trecho de DNA em um cromossomo. Alelos como versões  (variantes de sequência) de um gene.

@@ -1,0 +1,1 @@
+Especiação Aprenda sobre especiação, incluindo especiações alopátricas e simpátricas e mecanismos de isolamento reprodutivo.

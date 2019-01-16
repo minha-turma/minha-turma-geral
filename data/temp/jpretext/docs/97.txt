@@ -1,0 +1,1 @@
+Gradientes de concentração Um gradiente de concentração ocorre quando a concentração de partículas é maior em uma área que na outra. No transporte passivo, partículas irão difundir na direção do menor gradiente de concentração, das áreas de maior concentração para áreas de menor concentração, até que elas tenham a mesma concentração.

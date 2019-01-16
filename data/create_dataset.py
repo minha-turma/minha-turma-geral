@@ -16,7 +16,9 @@ import sys
 reload(sys)
 sys.setdefaultencoding('utf8')
 
-r = requests.get('https://pt.khanacademy.org/api/v1/topictree?kind=video').text
+url_mec = 'https://api.portalmec.c3sl.ufpr.br/v1/search?search_class=LearningObject&results_per_page=164&query=biologia&object_types[]=8&educational_stages[]=4&order=score'
+url_khan = 'https://pt.khanacademy.org/api/v1/topictree?kind=video'
+r = requests.get(url_mec).text
 
 # dictionary
 data = json.loads(r) 
@@ -60,5 +62,12 @@ for key1, value1 in data.items():
                                                                     f.write(value6 + '\n')
                                                                 elif key6 == 'description':
                                                                     f.write(value6 + '\n-\n')
+
+# used for collect data from MEC api
+# for i in data: 
+#     if i['link'] != None:
+#         f.write(i['link'].encode('utf-8') + '\n')
+#         f.write(i['name'].encode('utf-8') + '\n')
+#         f.write(i['description'].encode('utf-8') + '\n-\n')
 
 f.close()

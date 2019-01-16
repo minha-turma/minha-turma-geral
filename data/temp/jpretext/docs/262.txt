@@ -1,0 +1,1 @@
+Crescimento exponencial e logístico em populações Saiba mais sobre taxas de crescimento da população e como elas podem ser modeladas por equações exponenciais e logísticas.

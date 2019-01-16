@@ -1,0 +1,1 @@
+Interfase Interfase do ciclo da célula, incluindo as fases G₁, S, e G₂. Como a célula replica seu DNA antes da mitose. 

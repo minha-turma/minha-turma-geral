@@ -1,0 +1,1 @@
+Aplicação da equação de Hardy-Weinberg Usando a equação de Hardy-Weinberg para calcular as frequências alélicas e genotípicas.
