@@ -12,6 +12,12 @@ Como o método científico é usado para fazer perguntas e testar explicações.
 -
 Química da vida
 Elementos e átomos
+https://www.youtube.com/watch?v=dGD_3ygJJLk
+Introdução a bioquímica - Dose Dupla de Biologia. ENEM 2017 
+Aula com dois professores de Biologia sobre Bioquímica.
+-
+Química da vida
+Elementos e átomos
 https://pt.khanacademy.org/video/elements-and-atoms
 Elementos e átomos
 Como os elementos relacionam-se com os átomos.  O básico sobre como prótons, elétrons e nêutrons formam um átomo.
@@ -222,6 +228,12 @@ Comparação entre frutose e glicose. Anéis de piranose e furanose. Formação 
 -
 Macromoléculas
 Lipídios
+https://www.youtube.com/watch?v=7Vkx7buEzyw
+Lipídeos | Compostos Orgânicos | Prof. Paulo Jubilut 
+Neste vídeo o Prof. Paulo Jubilut explica a importância dos lipídeos nos seres vivos. São abordados temas como a estrutura, os tipos e as funções deste composto orgânico.
+-
+Macromoléculas
+Lipídios
 https://pt.khanacademy.org/video/molecular-structure-of-triglycerides-fats
 Estrutura molecular dos triglicérides (gorduras)
 Entenda como um triglicéride (triacilglicerol) pode ser formado a partir de uma molécula de glicerol e três ácidos graxos.
@@ -246,9 +258,45 @@ Saiba mais sobre o DNA (ácido desoxirribonucleico). Resumo sobre as bases do DN
 -
 Macromoléculas
 Ácidos nucleicos
+https://www.youtube.com/watch?v=ii7b3cF7j4o
+Ácidos Nucleicos - DNA - Compostos Orgânicos - Prof. Paulo Jubilut 
+ Neste vídeo o Prof. Paulo Jubilut explica a importância do DNA  nos seres vivos. São abordados temas como a estruturae as funções deste composto orgânico.
+-
+Macromoléculas
+Ácidos nucleicos
+https://www.youtube.com/watch?v=Tr364-GYY9k
+Núcleo Celular - Parte 1 - Prof. Paulo Jubilut 
+Nesta aula o Prof. Paulo Jubilut explica  sobre o núcleo celular. São abordados temas DNA, cromossomos, carioteca e cromatinas.
+-
+Macromoléculas
+Ácidos nucleicos
+https://www.youtube.com/watch?v=gY5_EWmrYGU
+Ácidos Nucleicos - RNA - Compostos Orgânicos - Prof. Paulo Jubilut 
+Neste vídeo o Prof. Paulo Jubilut explica a importância do RNA  nos seres vivos. São abordados temas como a estruturae as funções deste composto orgânico.
+-
+Macromoléculas
+Ácidos nucleicos
+https://www.youtube.com/watch?v=ZBlgi1hHO0E
+Especializações de Membrana Plasmática - Prof. Paulo Jubilut 
+Nesta aula o Prof. Paulo Jubilut explica as especializações da membrana plasmática.
+-
+Macromoléculas
+Ácidos nucleicos
+https://www.youtube.com/watch?v=nGRHqA_iPI0
+Vitaminas - Compostos Orgânicos - Prof. Paulo Jubilut
+Neste vídeo o Prof. Paulo Jubilut explica a importância das vitaminas nos seres vivos. São abordados temas como os tipos e as funções deste composto orgânico.
+-
+Macromoléculas
+Ácidos nucleicos
 https://pt.khanacademy.org/video/rna-transcription-and-translation
 Replicação do DNA e transcrição e tradução do RNA
 Como o DNA é copiado (replicação). Como a informação no DNA pode ser usada para fazer uma proteína.
+-
+Macromoléculas
+Ácidos nucleicos
+https://www.youtube.com/watch?v=VYC9v9E9-xQ
+Células-Tronco, Clonagem, Transgênicos e Teste de DNA - Revisão ENEM Biologia - Prof. Paulo Jubilut
+Nesta aula o Prof. Paulo Jubilut explica sobre Células-Tronco, Clonagem, Transgênicos e Teste de DNA.
 -
 Macromoléculas
 Ácidos nucleicos
@@ -297,6 +345,12 @@ Energia no metabolismo
 https://pt.khanacademy.org/video/introduction-to-metabolism-anabolism-and-catabolism
 Introdução ao metabolismo: anabolismo e catabolismo
 Panorama do metabolismo, anabolismo e catabolismo.
+-
+Energia e enzimas
+Energia no metabolismo
+https://www.youtube.com/watch?v=T51ld1dZ_B4
+METABOLISMO ENERGÉTICO - Foca na Medicina 2017 
+Aula interdisciplinar de Biologia e Química sobre Metabolismo Energético.
 -
 Energia e enzimas
 Leis da termodinâmica
@@ -393,6 +447,54 @@ Regulação enzimática
 https://pt.khanacademy.org/video/noncompetitive-inhibition
 Inibição não competitiva
 Veja como um inibidor não competitivo pode se ligar independente da ligação do substrato, e vice versa.
+-
+Estrutura celular
+Introdução às células
+https://www.youtube.com/watch?v=i-67lbXQpA4&t=235s
+Teoria da Endossimbiose - Mitocôndria e Cloroplasto
+Nesta videoaula o professor Samuel Cunha explica como surgirm as organelas nas células eucarióticas. 
+-
+Estrutura celular
+Introdução às células
+https://youtu.be/4IoiIUgpcnw
+Células Eucariontes x Procariontes: Principais Diferenças
+Nesta videoaula o professor Samuel Cunha diferencia Células eucarióticas de procarióticas, dando ênfase em suas principais características.
+-
+Estrutura celular
+Introdução às células
+https://www.youtube.com/watch?v=VwRVOcqWo2o
+Biologia do Zero com Marcos André - Citologia 
+Aula de Biologia sobre  o tema Citologia
+-
+Estrutura celular
+Introdução às células
+https://www.youtube.com/watch?v=p1noIkhcJEM
+Aulão ao Vivo - Organelas Citoplasmáticas - Prof. Paulo Jubilut 
+Nesta aula o Prof. Paulo Jubilut aborda as organelas citoplamáticas.   São abordados temas como ribossomos, complexo de Golgi, lisossomos entre outras.
+-
+Estrutura celular
+Introdução às células
+https://www.youtube.com/watch?v=OD9vtp_ZAT0
+Interfase - Ciclo Celular - Divisão Celular - Prof. Paulo Jubilut 
+Nesta aula o Prof. Paulo Jubilut explica a Interfase. São abordados temas como a replicação, duplicação DNA e o controle divisão celular.
+-
+Estrutura celular
+Introdução às células
+https://www.youtube.com/watch?v=MXwtaoOkh1s
+OSMOSE NA CÉLULA VEGETAL - Transporte Passivo - Prof. Paulo Jubilut  
+Nesta videoaula o Prof. Paulo Jubilut explica o equilíbrio osmótico nas Células Vegetais, aborda o seu comportamento em soluções isotônicas, hipotônicas, e hipertônicas
+-
+Estrutura celular
+Introdução às células
+https://www.youtube.com/watch?v=K7r8FuHrFfY
+Célula Animal x Célula Vegetal - Principais Diferenças
+Nesta videoaula o professor Samuel Cunha Diferencia célula animal e célula vegetal, explicando suas principais estruturas.
+-
+Estrutura celular
+Introdução às células
+https://youtu.be/Zc-G-PP3cN8
+Biologia - Citologia - O Ciclo Celular
+Toda célula tem um ciclo determinado no organismo, no qual ela se reproduz, gera descendência, envelhece e morre. Esse ciclo é definido por duas grandes fases: Intérfase, dividida em período G1, período S e período G2; e Divisão Celular, ambas fases que possuem características exclusivas e funções específicas. Tenha um primeiro contato com esse mecanismo aqui nesta aula.
 -
 Estrutura celular
 Introdução às células
@@ -612,6 +714,18 @@ Fermentação de álcool ou etanol, incluindo o fermento e seu papel na produç�
 -
 Fotossíntese
 Introdução à fotossíntese
+https://youtu.be/Jy90DbNf_6Q
+Biologia - Fotossíntese - Visão Geral
+Um dos processos mais conhecidos de produção de ATP é a fotossíntese, realizada por vários organismos como plantas e algas. Nesta aula você verá a importância deste processo, qual a relação que a luz tem com os pigmentos fotossintéticos, quais as etapas fundamentais ao entendimento deste metabolismo e compreender sua equação geral.
+-
+Fotossíntese
+Introdução à fotossíntese
+https://www.youtube.com/watch?v=TQ3BpbJH5zI
+Ponto de Compensação Luminosa | Prof. Paulo Jubilut
+Neste vídeo o Prof. Jubilut explica sobre o ponto de compensação luminosa em plantas de sombra (umbrófilas) e luz (heliófilas).
+-
+Fotossíntese
+Introdução à fotossíntese
 https://pt.khanacademy.org/video/adenosine-triphosphate
 ATP: adenosina trifosfato
 Saiba mais sobre o ATP: como ele armazena energia, e como essa energia é liberada quando ele é convertido em ADP e fosfato.
@@ -693,8 +807,24 @@ Comunicação em organismos unicelulares
 https://pt.khanacademy.org/video/cell-signaling-in-yeast-reproduction
 Sinalização celular na reprodução de leveduras
 Leveduras podem se reproduzir sexualmente através de uma via de sinalização, conhecida como via fator de acasalamento. Neste processo, duas células de levedura haploides combinam-se para formar uma célula diploide. Células de levedura secretam uma molécula sinal chamada fator de acasalamento que as atrai para seus companheiros. Uma vez que o fator de acasalamento de uma levedura vincula-se ao receptor em outra levedura, uma protuberância (broto) se forma, permitindo que as células de levedura se fundam. 
-  
-
+-
+Divisão celular
+Introdução à divisão celular
+https://www.youtube.com/watch?v=EkRs9kL5Kw4
+Mitose vs. Meiose - Divisão Celular - Prof. Paulo Jubilut 
+Nesta videoaula o Prof. Paulo Jubilut explica a Divisão Celular e a diferença entre a Mitose x Meiose.
+-
+Divisão celular
+Introdução à divisão celular
+https://www.youtube.com/watch?v=Q2N2XRneH4s
+Dúvidas das etapa da mitose
+Esclarecimentos sobre como ocorre a mitose e suas etapas.
+-
+Divisão celular
+Introdução à divisão celular
+https://www.youtube.com/watch?v=kfofwQOMc0o
+Mitose - Divisão Celular
+Nesta video aula o professor Samuel Cunha explica a divisão celular chamada de mitose. Ainda explica o que ocorre na célula entra as divisão, período chamado de intérfase.
 -
 Divisão celular
 Introdução à divisão celular
@@ -749,7 +879,6 @@ Meiose
 https://pt.khanacademy.org/video/phases-of-meiosis-ii
 Fases da meiose II
 Como as cromátides-irmãs se separam para formar gametas. Prófase II, metáfase II, anáfase II, telófase II.
-
 -
 Divisão celular
 Regulação do ciclo celular, câncer e células-tronco
@@ -768,6 +897,144 @@ Regulação do ciclo celular, câncer e células-tronco
 https://pt.khanacademy.org/video/apoptosis
 Apoptose
 Como apoptose é diferente da morte celular por lesão. Papel na manutenção e desenvolvimento do corpo.
+-
+Genética clássica e genética molecular
+Genética mendeliana
+https://www.youtube.com/watch?v=LHDR0P0y6lI&t=25s
+Vídeo Aula de Genética 4 - Cruzamentos I
+Cruzamento genético entre pares de alelos envolvendo a primeira lei de Mendel.
+-
+Genética clássica e genética molecular
+Genética mendeliana
+https://www.youtube.com/watch?v=LdBe4WaqPtI
+Vídeo Aula de Genética 5 - Cruzamentos II               
+Cruzamento genético entre pares de alelos envolvendo a primeira lei de Mendel.
+-
+Genética clássica e genética molecular
+Genética mendeliana
+https://www.youtube.com/watch?v=Mt_JyJqGuK4
+Cruzamento Genético na Primeira Lei de Mendel 
+Como se realiza um cruzamento envolvendo a clássica primeira lei de Mendel.
+-
+Genética clássica e genética molecular
+Genética mendeliana
+https://www.youtube.com/watch?v=q9nyk0EcRdw
+Cruzamento Genético na Herança Ligada ao Sexo
+Como se realiza um cruzamento envolvendo a herança ligada ao sexo.
+-
+Genética clássica e genética molecular
+Genética mendeliana
+https://www.youtube.com/watch?v=RUziCjr7G0I&t=165s
+Cruzamento Genético na Segunda Lei de Mendel
+Como se realiza um cruzamento envolvendo a clássica segunda lei de Mendel.
+-
+Genética clássica e genética molecular
+Genética mendeliana
+https://www.youtube.com/watch?v=KrYWR7CXO70
+Vídeo Aula de Genética 8 - Cruzando tipos sanguíneos Ii
+Cruzamento genético envolvendo a o sistema sanguíneo ABO.
+-
+Genética clássica e genética molecular
+Genética mendeliana
+https://www.youtube.com/watch?v=5hKHUFfAiaQ
+Vídeo Aula de Genética 7 - Cruzando tipos sanguíneos I
+Cruzamento genético envolvendo a o sistema sanguíneo ABO.
+-
+Genética clássica e genética molecular
+Genética mendeliana
+https://www.youtube.com/watch?v=oV5Pb7IztmQ
+Vídeo Aula de Genética 2 - O que Mendel fez
+Descrição da primeira experiência de Mendel com as ervilhas.
+-
+Genética clássica e genética molecular
+Genética mendeliana
+https://www.youtube.com/watch?v=ijlDwi3TnzQ
+Vídeo Aula de Genética 12 - Heredograma
+O que é e quais os símbolos de compo~em um heredograma.
+-
+Genética clássica e genética molecular
+Genética mendeliana
+https://www.youtube.com/watch?v=-AP9IJ3LJXQ
+Dúvidas de cruzamentos genéticos
+Resolvendo dúvida sobre cruzamentos genéticos.
+-
+Genética clássica e genética molecular
+Genética mendeliana
+https://www.youtube.com/watch?v=ZG-YocR3uH8
+Cruzando Hemofilia em Cruzamento Genético
+Como se realiza um cruzamento envolvendo hemofilia.
+-
+Genética clássica e genética molecular
+Genética mendeliana
+https://www.youtube.com/watch?v=zi4K234EPE4
+Genótipo e fenótipo - Minuto do Biomacete
+Dicas e macete sobre a diferença entre genótipo e fenótipo.
+-
+Genética clássica e genética molecular
+Genética mendeliana
+https://www.youtube.com/watch?v=YsbpXInSgGc
+Dúvidas de cruzamento sanguíneo do sistema ABO e Rh
+Resolvendo cruzamento genético envolvendo os sistemas sanguíneos ABO e Rh.
+-
+Genética clássica e genética molecular
+Genética mendeliana
+https://www.youtube.com/watch?v=fgP6w5tfawM
+Vídeo Aula de Genética 3 - Fundamentos da Genética
+Nomenclatura e conceitos modernos dos termos da genética.
+-
+Genética clássica e genética molecular
+Genética mendeliana
+https://www.youtube.com/watch?v=GKP84G9lAFE&list=PLF2J-8QoLzYF0AE7L2qUktGiW4HKj0cZU&index=22
+Introdução à genética
+Genética é a ciência dos genes, da hereditariedade e da variação dos organismos. Ramo da biologia que estuda a forma como se transmitem as características biológicas de geração para geração.
+-
+Genética clássica e genética molecular
+Genética mendeliana
+https://www.youtube.com/watch?v=ZWLj7dRbqGA
+Vídeo Aula de Genética 10 -  Cruzamento de hemofilia
+Cruzamento genético envolvendo hemofilia.
+-
+Genética clássica e genética molecular
+Genética mendeliana
+https://www.youtube.com/watch?v=8ExMo_dXXJc
+Vídeo Aula de Genética 11 - Cruzamento de daltonismo
+Cruzamento genético envolvendo daltonismo.
+-
+Genética clássica e genética molecular
+Genética mendeliana
+https://www.youtube.com/watch?v=6W1JvdJltfM
+Dúvidas de cruzamento sanguíneo do sistema ABO
+Resolvendo dúvida sobre cruzamentos envolvendo o sistema ABO.
+-
+Genética clássica e genética molecular
+Genética mendeliana
+https://www.youtube.com/watch?v=087aPWhjSX8
+1a Lei de Mendel - Genética - Prof. Paulo Jubilut 
+Nesta aula o Prof. Paulo Jubilut explica a primeira Lei de Mendel. 
+-
+Genética clássica e genética molecular
+Genética mendeliana
+https://www.youtube.com/watch?v=m7SFUdSBlu0&t=25s
+Vídeo Aula de Genética 6 - Polialelia em sistema ABO
+Explicação sobre o sistema sanguíneo ABO: características, compatibilidade e genética.
+-
+Genética clássica e genética molecular
+Genética mendeliana
+https://www.youtube.com/watch?v=Yce3yI86XJ8
+Vídeo Aula de Genética 1 - Mendel e suas ervilhas
+Esta vídeo aula traz as vantagens  da escolha que Mendel fez para usar ervilhas em suas expriências. É a primeira de uma série de 14 vídeos, com o professor Francisco Anselmi.
+-
+Genética clássica e genética molecular
+Genética mendeliana
+https://www.youtube.com/watch?v=P1P1qcFaE1U
+Dúvidas de formando gametas na 2ª Lei de Mendel 
+Resolvendo dúvidas de como formar gametas a partir de genótipo de dois pares de genes.
+-
+Genética clássica e genética molecular
+Genética mendeliana
+https://www.youtube.com/watch?v=qVzQb8aeuhA
+Introdução à Genética - Prof. Paulo Jubilut 
+Nesta videoaula o Prof. Paulo Jubilut  faz uma Introdução à Genética.
 -
 Genética clássica e genética molecular
 Genética mendeliana
@@ -798,6 +1065,12 @@ Base cromossômica da genética
 https://pt.khanacademy.org/video/thomas-hunt-morgan-and-fruit-flies
 Thomas Hunt Morgan e as moscas de fruta
 O trabalho pioneiro de Thomas Hunt Morgan com as moscas de fruta que ajudou a validar a teoria cromossômica da herança.
+-
+Genética clássica e genética molecular
+Genes ligados ao sexo, mutações cromossômicas & herança não-nuclear
+https://www.youtube.com/watch?v=OBJjpqrv8-M&t=25s
+Vídeo Aula de Genética 9 - Herança ligada ao sexo
+Explicação sobre o que é herança ligada ao sexo
 -
 Genética clássica e genética molecular
 Genes ligados ao sexo, mutações cromossômicas & herança não-nuclear
@@ -983,6 +1256,48 @@ Saiba como um zigoto, a única célula produzida pela fertilização, se divide 
 -
 Biologia do desenvolvimento
 Desenvolvimento e diferenciação
+https://youtu.be/E0tQPivE6Xw
+O Sistema Reprodutor | O Corpo Humano Ep. #7 | Hiperativo Biologia
+Esta videoaula traz informações sobre o sistema reprodutor.  É a ultima de uma série de 7 vídeos, Sobre o Corpo Humano. 
+-
+Biologia do desenvolvimento
+Desenvolvimento e diferenciação
+https://youtu.be/59EE-oaREb8
+O Sistema Excretor | O Corpo Humano Ep. #5 | Hiperativo Biologia
+Esta videoaula traz informações sobre o sistema excretor. É a quinta de uma série de 7 vídeos, Sobre o Corpo Humano. 
+-
+Biologia do desenvolvimento
+Desenvolvimento e diferenciação
+https://youtu.be/ykXApA8utLM
+O Sistema Respiratório | O Corpo Humano Ep. #2 | Hiperativo Biologia
+Esta videoaula traz informações sobre o sistema Respiratório. É  a segunda de uma série de 7 vídeos, Sobre o Corpo Humano. 
+-
+Biologia do desenvolvimento
+Desenvolvimento e diferenciação
+https://youtu.be/BArAmyWkNso
+O Sistema Nervoso | O Corpo Humano Ep. #4 | Hiperativo Biologia
+Esta videoaula traz informações sobre o sistema nervoso. É a quarta de uma série de 7 vídeos, Sobre o Corpo Humano. 
+-
+Biologia do desenvolvimento
+Desenvolvimento e diferenciação
+https://youtu.be/BnxQbiJtyJA
+O Sistema Circulatório | O Corpo Humano Ep. #3 | Hiperativo Biologia
+Esta videoaula traz informações sobre o sistema circulatório. É a terceira de uma série de 7 vídeos, Sobre o Corpo Humano. 
+-
+Biologia do desenvolvimento
+Desenvolvimento e diferenciação
+https://youtu.be/BNwcEhtGKh0
+O Sistema Linfático | O Corpo Humano Ep. #6 | Hiperativo Biologia
+Esta videoaula traz informações sobre o sistema linfático. É a sexta de uma série de 7 vídeos, Sobre o Corpo Humano. 
+-
+Biologia do desenvolvimento
+Desenvolvimento e diferenciação
+https://www.youtube.com/watch?v=4_VfjPwECwY
+Sistema Circulatório - Cardiovascular - Sanguíneo 
+Nesta videoaula o professor Samuel Cunha explica de forma divertida o sistema circulatório, suas estruturas e função. 
+-
+Biologia do desenvolvimento
+Desenvolvimento e diferenciação
 https://pt.khanacademy.org/video/embryonic-stem-cells
 Células-tronco embrionárias
 Visão geral do desenvolvimento inicial de um zigoto em um embrião. Células-tronco embrionárias e somáticas.
@@ -995,6 +1310,12 @@ Como apoptose é diferente da morte celular por lesão. Papel na manutenção e 
 -
 Bactérias e arqueas
 Estrutura procarionte
+https://www.youtube.com/watch?v=kKoO5I73F3E
+Os Três Domínios dos Seres Vivos - Características e Classificação - Bacteria, Archaea e Eukarya 
+Nesta videoaula o professor Samuel Cunha explica cada um dos três Domínios existentes, danto enfoque na diferença e principais característica de cada Domínio.
+-
+Bactérias e arqueas
+Estrutura procarionte
 https://pt.khanacademy.org/video/bacteria
 Bactérias
 Introdução às bactérias.
@@ -1004,6 +1325,30 @@ Estrutura procarionte
 https://pt.khanacademy.org/video/prokaryotic-and-eukaryotic-cells
 Células procariontes e eucariontes
 Células procariontes e eucariontes. Domínios Bacteria e Archaea.
+-
+Vírus
+Vírus
+https://youtu.be/Bi7AkbmUglk
+Biologia - O Vírus Ebola
+Nesta videoaula você irá estudar de forma mais aprofundada o ebola, que ainda é considerada uma epidemia. Verá quando surgiram os primeiros casos, qual é o agente causador, seu reservatório natural, como se transmite, qual é o tratamento adequado para essa doença, quais são seus principais sintomas e, por fim, como é possível se prevenir do ebola.
+-
+Vírus
+Vírus
+https://youtu.be/YWGsSdZnk4M
+Biologia - Vírus  - Visão Geral
+Nesta videoaula de vírus e príons você terá uma visão geral sobre o tema para que comece a se preparar para as próximas aulas online. Verá que os vírus são entidades acelulares, extremamente simples e pequenos, visíveis apenas em microscópios eletrônicos e parasitas intracelulares obrigatórios.
+-
+Vírus
+Vírus
+https://youtu.be/TeVF98E8h3g
+Biologia - Zika
+Nesta videoaula você irá estudar de forma mais aprofundada a zika, que é uma virose transmitida por animal. Apresentada de forma bastante didática, esta aula online está dividida em quatro partes para facilitar o seu entendimento. Na primeira parte, o objeto de estudo será o vírus, um histórico sobre ele. Na segunda parte, você estudará o mosquito aedes aegypti. Na terceira parte você estudará a microcefalia e a sua relação com o zika vírus. Na quarta e última parte você aprenderá as formas de se prevenir dessa virose.
+-
+Vírus
+Vírus
+https://www.youtube.com/watch?v=55BCWNAVuFw
+Vírus - Doenças - Resumão ENEM - Prof. Paulo Jubilut 
+Nesta videoaula o Prof. Paulo Jubilut faz um resumão sobre as doenças virais mais cobradas no Exame Nacional. 
 -
 Vírus
 Vírus
@@ -1088,6 +1433,12 @@ Especiação e árvores evolutivas
 https://pt.khanacademy.org/video/taxonomy-and-the-tree-of-life
 Taxonomia e a árvore da vida
 A ciência da taxonomia e a posição dos seres humanos na árvore da vida.
+-
+A evolução e a árvore da vida
+Especiação e árvores evolutivas
+https://www.youtube.com/watch?v=tQ_bB-oRWII
+Taxonomia - Biologia Cantada - Prof. Paulo Jubilut 
+Nesta aula o Prof. Paulo Jubilut aborda os apectos da taxonomia. São abordados temas como classificação e nomemclatura.
 -
 A evolução e a árvore da vida
 Especiação e árvores evolutivas
@@ -1433,6 +1784,18 @@ Descubra o elo entre as árvores evolutivas e a biodiversidade. Vídeo de Calif
 -
 Biologia Comportamental
 Comportamento animal
+https://www.youtube.com/watch?v=2E0bVIIVgGY&index=88&list=PLF2J-8QoLzYF0AE7L2qUktGiW4HKj0cZU
+Zoologia: Introdução
+Aula introdutória sobre zoologia, um ramo da biologia que estuda a estrutura, fisiologia, comportamento, evolução e classificação dos animais.
+-
+Biologia Comportamental
+Comportamento animal
+https://www.youtube.com/watch?v=rLRAZ1Mzqsg
+Poríferos - Reino Animalia (Zoologia) - Prof. Paulo Jubilut 
+Nesta aula o Prof. Paulo Jubilut explica as características do poríferos.
+-
+Biologia Comportamental
+Comportamento animal
 https://pt.khanacademy.org/video/animal-communication
 Comunicação animal
 Visite-nos (http://www.khanacademy.org/science/healthcare-and-medicine) para ver mais conteúdos sobre saúde e medicina ou (http://www.khanacademy.org/test-prep/mcat) para ver conteúdos relativos ao MCAT. 
@@ -1539,6 +1902,30 @@ Como a concentração de íons cálcio determina se um músculo se contrai ou n�
 -
 Biologia humana
 Músculos
+https://www.youtube.com/watch?v=cY8ihmXysc8
+Tecido Muscular - Histologia
+Nesta videoaula o professor Samuel Cunha explica de forma detalhada o tecido muscular. A aula está dividida em duas partes, a segundo você encontra no youtube.
+-
+Biologia humana
+Músculos
+https://www.youtube.com/watch?v=x6S7yhxS4A0
+Tecido Epitelial - Histologia Animal - Prof. Paulo Jubilut 
+Nesta aula o Prof. Paulo Jubilut aborda as características, tipos celulares e funções do tecido epitelial.
+-
+Biologia humana
+Músculos
+https://www.youtube.com/watch?v=Vd9RVSKZoj4
+Tecido Nervoso- Histologia
+Nesta videoaula o professor Samuel Cunha explica as principais característica do tecido nervoso. Suas estruturas e função.
+-
+Biologia humana
+Músculos
+https://youtu.be/iM2pfdrkB0I
+Biologia - Histologia - Visão Geral
+Nesta videoaula você irá aprender sobre os tecidos do corpo e sua composição.
+-
+Biologia humana
+Músculos
 https://pt.khanacademy.org/video/role-of-the-sarcoplasmic-reticulum-in-muscle-cells
 Função do retículo sarcoplasmático em células musculares
 O papel do retículo sarcoplasmático no controle da concentração de íons de cálcio dentro da célula muscular.
@@ -1615,6 +2002,18 @@ https://pt.khanacademy.org/video/photoperiodism
 Fotoperiodismo
 Como as plantas podem regular processos como a floração com base  no comprimento do dia (fotoperíodo).
 -
+Biologia vegetal
+Respostas das plantas à luz
+https://www.youtube.com/watch?v=nLRy7t8T0W4
+Grupos Vegetais - Briófitas, Pteridófitas, Gimnospermas e Angiospermas - Prof. Paulo Jubilut 
+Nesta aula o Prof. Paulo Jubilut explica sobre as Briófitas, Pteridófitas, Gimnospermas e Angiosperma. Conteúdo cobrado pelos  principais vestibulares na área de Botânica. 
+-
+Biologia vegetal
+Respostas das plantas à luz
+https://www.youtube.com/watch?v=cE0ar0EROyQ
+Briófitas e Pteridófita - Minuto do Biomacete
+Dicas e macete para entender a diferença entre as briófitas e as pteridófitas.
+-
 Curso intensivo: Biologia e Ecologia
 Curso intensivo: Biologia
 https://pt.khanacademy.org/video/bio101-carbon
@@ -1662,6 +2061,12 @@ Curso intensivo: Biologia
 https://pt.khanacademy.org/video/crash-course-biology-108
 Fotossíntese
 Hank explica as séries de reações extremamente complexas por meio das quais as plantas alimentam-se de luz solar, dióxido de carbono e água e também criam alguns produtos muito gostosos.
+-
+Curso intensivo: Biologia e Ecologia
+Curso intensivo: Biologia
+https://www.youtube.com/watch?v=tZOcnWuAv6M
+Plantas Carnívoras - Curiosidade em Biologia
+Curiosidades sobre o que são e quam são as plantas carnívoras.
 -
 Curso intensivo: Biologia e Ecologia
 Curso intensivo: Biologia
@@ -1803,6 +2208,12 @@ Hank nos fala sobre a equipe de assassinos ninjas mortais que é encarregada de 
 -
 Curso intensivo: Biologia e Ecologia
 Curso intensivo: Biologia
+https://www.youtube.com/watch?v=hReaL4UYU6c
+Sistema Endócrino - Hormônios - Prof. Paulo Jubilut 
+Nesta aula o Prof. Paulo Jubilut explica sobre as funções dos hormônios e as funções do sistema endócrino. 
+-
+Curso intensivo: Biologia e Ecologia
+Curso intensivo: Biologia
 https://pt.khanacademy.org/video/crash-course-biology-132
 Super glândulas - Seu sistema endócrino
 Hank nos mostra o sistema endócrino - sistema de glândulas que produzem e secretam diferentes tipos de hormônios diretamente na corrente sanguínea para regular as funções do corpo, crescimento, metabolismo e desenvolvimento sexual.
@@ -1848,6 +2259,18 @@ Curso intensivo: Biologia
 https://pt.khanacademy.org/video/crash-course-biology-139
 Ecologia - Regras para se viver na Terra
 Hank nos introduz à ecologia - o estudo das regras de compromisso para todos nós, terráqueos - que procuramos explicar por que o mundo parece e age da maneira que faz. O mundo está repleto de coisas, tanto animadas, como não, que têm interagido umas com as outras o tempo todo, todos os dias, desde que a vida começou neste planeta, e essas interações dependem principalmente de apenas duas coisas... Aprenda o que são na sua última viagem do Curso Intensivo de Biologia, que o levará para fora de seu corpo e para dentro do mundo todo. 
+-
+Curso intensivo: Biologia e Ecologia
+Curso intensivo: Biologia
+https://tvescola.org.br/videos/11800
+Programa 19 - Saúde Humana, Adaptação das Plantas e Documentário de Natureza
+Veja uma entrevista com o documentarista de natureza, e ganhador do Emmy, Lawrence Wahba. Nos tempos de escola, ele não era muito fá de Biologia, Física, Química e Matemática, mas precisou assimilar esses conteúdos para se tornar um profissional reconhecido. Física e Química entender como os gases circulam na corrente sanguínea embaixo d’água. Já a Biologia é fundamental para filmar tubarões, onças e tantas outras espécies. De quebra, veja duas questões do ENEM 2015. Uma sobre consumo de sódio e hipertensão arterial; e outra sobre características adaptativas das plantas.
+-
+Curso intensivo: Biologia e Ecologia
+Curso intensivo: Biologia
+https://www.youtube.com/watch?v=ampFzLeTPpU
+Biologia - Parasitoses - Curso Top Temas do ENEM 
+Aula de Biologia sobre  o tema Parasitoses.
 -
 Curso intensivo: Biologia e Ecologia
 Curso intensivo: Ecologia
@@ -1899,6 +2322,12 @@ Hank explica como o carbono e a água são reciclados pelos ecossistemas e biosf
 -
 Curso intensivo: Biologia e Ecologia
 Curso intensivo: Ecologia
+https://www.youtube.com/watch?v=TwOjrl6KXJI
+Insetos e Seres Humanos - Curiosidade em Biologia
+Curiosidades sobre o que os insetos contribuem para os seres humanos.
+-
+Curso intensivo: Biologia e Ecologia
+Curso intensivo: Ecologia
 https://pt.khanacademy.org/video/crash-course-ecology-09
 Ciclos do nitrogênio e do fósforo: Recicle sempre!
 Hank discute como nitrogênio e fósforo são reciclados pelos ecossistemas e pela biosfera.
@@ -1920,4 +2349,10 @@ Curso intensivo: Ecologia
 https://pt.khanacademy.org/video/crash-course-ecology-12
 Ecologia da conservação e da restauração
 Hank discute diferentes tipos de biodiversidade, e como a biodiversidade pode ser medida, preservada e restaurada.
+-
+Curso intensivo: Biologia e Ecologia
+Curso intensivo: Ecologia
+https://www.youtube.com/watch?v=MebNInUsW1w
+ADEUS MOLEZA - Meio Ambiente - Biologia e Química | Foca na Medicina 
+Aula interdisciplinar de Biologia e Química sobre Meio Ambiente.
 -
