@@ -1,1 +1,0 @@
-Representação de estruturas de moléculas orgânicas Representação de estruturas de moléculas orgânicas utilizando diagramas de linhas (ou ângulo-linha). 
